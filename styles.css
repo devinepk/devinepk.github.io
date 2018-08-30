@@ -1,0 +1,19 @@
+body {
+  background-color: #e8f442;
+  color: #00067a;
+
+}
+
+h1 {
+  color: #00000a;
+  font-size: 2em;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
