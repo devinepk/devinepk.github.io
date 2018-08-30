@@ -31,3 +31,7 @@ p {
     margin-right: auto;
     width: 25%;
 }
+
+.content {
+  font-family: 'Lora', serif;
+}
