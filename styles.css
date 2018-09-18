@@ -1,27 +1,32 @@
 body {
-  background-color: #e8f442;
+  background-color: #C1EEFF;
   color: #00067a;
 
+}
+
+img {
+    border-radius: 50%;
 }
 
 h1 {
   color: #00000a;
   font-size: 2em;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
 
 }
 
 h2 {
   color: #00000a;
   font-size: 2em;
-  font-family: 'Kosugi Maru', sans-serif;
+  font-family: 'Roboto', sans-serif;
 
 }
 
 p {
   color: #00000a;
   font-size: 2em;
-  font-family: 'Lora', serif;
+  font-family: 'Dosis', sans-serif;
+
 
 }
 
@@ -33,5 +38,5 @@ p {
 }
 
 .content {
-  font-family: 'Lora', serif;
-}
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Dosis', sans-serif;
