@@ -1,0 +1,42 @@
+body {
+  background-color: #C1EEFF;
+  color: #00067a;
+
+}
+
+img {
+    border-radius: 50%;
+}
+
+h1 {
+  color: #00000a;
+  font-size: 2em;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+h2 {
+  color: #00000a;
+  font-size: 2em;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+p {
+  color: #00000a;
+  font-size: 2em;
+  font-family: 'Dosis', sans-serif;
+
+
+}
+
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.content {
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Dosis', sans-serif;
